@@ -1,6 +1,3 @@
-# automatic-dog-feeder
-IoT-enabled automated dog feeder using ESP32, servo actuation, and WiFi connectivity
-
 # ESP32 Automated Dog Feeder
 
 An IoT-enabled dog feeder that dispenses food on a schedule or on-demand 

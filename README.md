@@ -41,4 +41,4 @@ and servo motor actuation.
 
 ## Built By
 
-Colton Lyons — [your.email@proton.me](mailto:your.email@proton.me)
+Colton Lyons colton@lyonslocomotion.com
